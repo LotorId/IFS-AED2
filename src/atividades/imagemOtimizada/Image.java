@@ -1,4 +1,4 @@
-package image;
+package atividades.imagemOtimizada;
 
 import java.util.ArrayList;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package image;
+package atividades.imagemOtimizada;
 
 public class Pixel {
 
